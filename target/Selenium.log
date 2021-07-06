@@ -1,0 +1,44 @@
+2021-07-06 10:35:46 [INFO ] [JAM Logs] - [<init>] Chrome Browser Started 
+2021-07-06 10:35:46 [INFO ] [JAM Logs] - [setUp] VALIDATE LOGIN FUNCTIONALITY WITH VALID CREDENTIALS started execution
+2021-07-06 10:35:55 [INFO ] [JAM Logs] - [openPage] Application URL https://joann-allocation.impactanalytics.co/#/login opened
+2021-07-06 10:35:55 [INFO ] [JAM Logs] - [tearDown] VALIDATE LOGIN FUNCTIONALITY WITH VALID CREDENTIALS finished execution
+2021-07-06 10:35:55 [INFO ] [JAM Logs] - [tearDown] VALIDATE LOGIN FUNCTIONALITY WITH VALID CREDENTIALS status is PASSED
+2021-07-06 10:52:48 [INFO ] [JAM Logs] - [<init>] Chrome Browser Started 
+2021-07-06 10:52:48 [INFO ] [JAM Logs] - [setUp] Validate Login Functionality with Valid Credentials started execution
+2021-07-06 10:52:56 [INFO ] [JAM Logs] - [openPage] Application URL https://joann-allocation.impactanalytics.co/#/login opened
+2021-07-06 10:52:58 [INFO ] [JAM Logs] - [tearDown] Validate Login Functionality with Valid Credentials finished execution
+2021-07-06 10:52:58 [INFO ] [JAM Logs] - [tearDown] Validate Login Functionality with Valid Credentials status is PASSED
+2021-07-06 10:53:00 [INFO ] [JAM Logs] - [<init>] Chrome Browser Started 
+2021-07-06 10:53:01 [INFO ] [JAM Logs] - [setUp] Validate Login Functionality with Valid Credentials started execution
+2021-07-06 10:53:08 [INFO ] [JAM Logs] - [openPage] Application URL https://joann-allocation.impactanalytics.co/#/login opened
+2021-07-06 10:54:42 [INFO ] [JAM Logs] - [tearDown] Validate Login Functionality with Valid Credentials finished execution
+2021-07-06 10:54:42 [INFO ] [JAM Logs] - [tearDown] Validate Login Functionality with Valid Credentials status is FAILED
+2021-07-06 10:55:46 [INFO ] [JAM Logs] - [<init>] Chrome Browser Started 
+2021-07-06 10:55:46 [INFO ] [JAM Logs] - [setUp] Validate Login Functionality with Valid Credentials started execution
+2021-07-06 10:55:56 [INFO ] [JAM Logs] - [openPage] Application URL https://joann-allocation.impactanalytics.co/#/login opened
+2021-07-06 10:55:57 [INFO ] [JAM Logs] - [user_enter_valid_Username_and_Password] Username entered
+2021-07-06 10:55:57 [INFO ] [JAM Logs] - [user_enter_valid_Username_and_Password] Password entered
+2021-07-06 10:55:57 [INFO ] [JAM Logs] - [click_on_Login_Button] Clicked on Sigin button
+2021-07-06 10:55:58 [INFO ] [JAM Logs] - [tearDown] Validate Login Functionality with Valid Credentials finished execution
+2021-07-06 10:55:58 [INFO ] [JAM Logs] - [tearDown] Validate Login Functionality with Valid Credentials status is PASSED
+2021-07-06 10:56:00 [INFO ] [JAM Logs] - [<init>] Chrome Browser Started 
+2021-07-06 10:56:00 [INFO ] [JAM Logs] - [setUp] Validate Login Functionality with Valid Credentials started execution
+2021-07-06 10:56:07 [INFO ] [JAM Logs] - [openPage] Application URL https://joann-allocation.impactanalytics.co/#/login opened
+2021-07-06 10:56:08 [INFO ] [JAM Logs] - [user_enter_valid_Username_and_Password] Username entered
+2021-07-06 10:56:08 [INFO ] [JAM Logs] - [user_enter_valid_Username_and_Password] Password entered
+2021-07-06 10:56:08 [INFO ] [JAM Logs] - [click_on_Login_Button] Clicked on Sigin button
+2021-07-06 10:56:09 [INFO ] [JAM Logs] - [tearDown] Validate Login Functionality with Valid Credentials finished execution
+2021-07-06 10:56:09 [INFO ] [JAM Logs] - [tearDown] Validate Login Functionality with Valid Credentials status is PASSED
+2021-07-06 10:57:14 [INFO ] [JAM Logs] - [<init>] Chrome Browser Started 
+2021-07-06 10:57:14 [INFO ] [JAM Logs] - [setUp] Validate Login Functionality with Valid Credentials started execution
+2021-07-06 10:57:22 [INFO ] [JAM Logs] - [openPage] Application URL https://joann-allocation.impactanalytics.co/#/login opened
+2021-07-06 10:57:22 [INFO ] [JAM Logs] - [user_enter_valid_Username_and_Password] Username entered
+2021-07-06 10:57:23 [INFO ] [JAM Logs] - [user_enter_valid_Username_and_Password] Password entered
+2021-07-06 10:57:23 [INFO ] [JAM Logs] - [click_on_Login_Button] Clicked on Sigin button
+2021-07-06 10:57:23 [INFO ] [JAM Logs] - [tearDown] Validate Login Functionality with Valid Credentials finished execution
+2021-07-06 10:57:23 [INFO ] [JAM Logs] - [tearDown] Validate Login Functionality with Valid Credentials status is PASSED
+2021-07-06 10:57:26 [INFO ] [JAM Logs] - [<init>] Chrome Browser Started 
+2021-07-06 10:57:26 [INFO ] [JAM Logs] - [setUp] Validate Login Functionality with Valid Credentials started execution
+2021-07-06 10:57:35 [INFO ] [JAM Logs] - [openPage] Application URL https://joann-allocation.impactanalytics.co/#/login opened
+2021-07-06 10:57:37 [INFO ] [JAM Logs] - [tearDown] Validate Login Functionality with Valid Credentials finished execution
+2021-07-06 10:57:37 [INFO ] [JAM Logs] - [tearDown] Validate Login Functionality with Valid Credentials status is FAILED
